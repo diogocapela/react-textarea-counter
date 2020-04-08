@@ -1,0 +1,60 @@
+{
+  "name": "react-textarea-counter",
+  "description": "Basic textarea character counter React component.",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocapela/react-textarea-counter.git"
+  },
+  "author": "Diogo Capela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogocapela/react-textarea-counter/issues"
+  },
+  "homepage": "https://github.com/diogocapela/react-textarea-counter#readme",
+  "peerDependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.5",
+    "@babel/preset-env": "7.7.6",
+    "@babel/preset-react": "7.7.4",
+    "@testing-library/jest-dom": "4.2.4",
+    "@testing-library/react": "9.3.2",
+    "@testing-library/user-event": "7.1.2",
+    "babel-loader": "8.1.0",
+    "css-loader": "3.3.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "prettier": "2.0.4",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "style-loader": "1.0.1",
+    "webpack": "4.42.0",
+    "webpack-cli": "3.3.10"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

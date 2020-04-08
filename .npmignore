@@ -1,0 +1,12 @@
+public/
+src/
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+.nvmrc
+.prettierignore
+.prettierrc
+webpack.config.js
