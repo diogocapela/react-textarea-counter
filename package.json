@@ -1,7 +1,7 @@
 {
   "name": "react-textarea-counter",
+  "version": "1.0.1",
   "description": "Basic textarea character counter React component.",
-  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "dev": "react-scripts start",
@@ -12,6 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/diogocapela/react-textarea-counter.git"
   },
+  "keywords": [
+    "react",
+    "textarea",
+    "character",
+    "counter"
+  ],
   "author": "Diogo Capela",
   "license": "MIT",
   "bugs": {
@@ -19,9 +25,9 @@
   },
   "homepage": "https://github.com/diogocapela/react-textarea-counter#readme",
   "peerDependencies": {
-    "prop-types": "15.7.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@babel/core": "7.7.5",

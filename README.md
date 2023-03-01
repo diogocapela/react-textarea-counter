@@ -10,10 +10,6 @@
 [code-style-img]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
 [build-status-url]: https://travis-ci.org/diogocapela/react-textarea-counter
 [build-status-img]: https://travis-ci.org/diogocapela/react-textarea-counter.svg?branch=master
-[dependencies-status-url]: https://david-dm.org/diogocapela/react-textarea-counter
-[dependencies-status-img]: https://img.shields.io/david/diogocapela/react-textarea-counter.svg
-[dev-dependencies-status-url]: https://david-dm.org/diogocapela/react-textarea-counter?type=dev
-[dev-dependencies-status-img]: https://img.shields.io/david/dev/diogocapela/react-textarea-counter.svg
 
 Basic textarea character counter React component.
 
@@ -32,7 +28,7 @@ import TextareaCounter from 'react-textarea-counter';
 
 export default function MyComponent() {
   return <TextareaCounter countLimit={25} initialValue="Hello World!" />;
-};
+}
 ```
 
 ## Props
@@ -57,3 +53,5 @@ export default function MyComponent() {
 ## License
 
 Open source under the terms of the [MIT License](/LICENSE).
+
+Made by [Diogo Capela](https://diogocapela.com).
