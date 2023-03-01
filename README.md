@@ -23,7 +23,6 @@ npm i react-textarea-counter --save
 
 ```jsx
 import React from 'react';
-
 import TextareaCounter from 'react-textarea-counter';
 
 export default function MyComponent() {
