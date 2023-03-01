@@ -1,15 +1,15 @@
 # react-textarea-counter
 
 [![NPM][npm-img]][npm-url]
-[![Build Status][build-status-img]][build-status-url]
 [![Code Style][code-style-img]][code-style-url]
+[![Build Status][build-status-img]][build-status-url]
 
 [npm-url]: https://www.npmjs.com/package/react-textarea-counter
 [npm-img]: https://img.shields.io/npm/v/react-textarea-counter.svg
 [code-style-url]: https://github.com/prettier/prettier
 [code-style-img]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
-[build-status-url]: https://travis-ci.org/diogocapela/react-textarea-counter
-[build-status-img]: https://travis-ci.org/diogocapela/react-textarea-counter.svg?branch=master
+[build-status-url]: https://dl.circleci.com/status-badge/redirect/gh/diogocapela/react-textarea-counter/tree/master
+[build-status-img]: https://dl.circleci.com/status-badge/img/gh/diogocapela/react-textarea-counter/tree/master.svg?style=svg
 
 Basic textarea character counter React component.
 
