@@ -1,10 +1,8 @@
 # react-textarea-counter
 
 [![NPM][npm-img]][npm-url]
-[![Code Style][code-style-img]][code-style-url]
 [![Build Status][build-status-img]][build-status-url]
-[![Dependencies Status][dependencies-status-img]][dependencies-status-url]
-[![Dev Dependencies Status][dev-dependencies-status-img]][dev-dependencies-status-url]
+[![Code Style][code-style-img]][code-style-url]
 
 [npm-url]: https://www.npmjs.com/package/react-textarea-counter
 [npm-img]: https://img.shields.io/npm/v/react-textarea-counter.svg
@@ -25,14 +23,14 @@ Basic textarea character counter React component.
 npm i react-textarea-counter --save
 ```
 
-## Basic Usage
+## Usage
 
 ```jsx
 import React from 'react';
 
 import TextareaCounter from 'react-textarea-counter';
 
-export default () => {
+export default function MyComponent() {
   return <TextareaCounter countLimit={25} initialValue="Hello World!" />;
 };
 ```
@@ -58,4 +56,4 @@ export default () => {
 
 ## License
 
-Open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Open source under the terms of the [MIT License](/LICENSE).
